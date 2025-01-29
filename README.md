@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/nitinrs95/blog-preview-card-main.git]
-- Live Site URL: [https://nitinrs95.github.io/blog-preview-card-main/]
+- Solution URL: [github](https://github.com/nitinrs95/blog-preview-card-main.git)
+- Live Site URL: [blog-preview-card](https://nitinrs95.github.io/blog-preview-card-main/)
 
 ## My process
 
